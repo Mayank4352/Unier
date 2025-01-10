@@ -1,16 +1,9 @@
-# unier
+# Unier
 
-A new Flutter project.
+A Social Service App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I'm thrilled to share our latest project, Unier, a live speech-to-text and text-to-speech app, designed to make communication seamless for the deaf and mute communities. With Unier, we're creating a tool that empowers users to engage in real-time conversations with others without needing an intermediary, opening up a world of possibilities!
+Inspired by the functionality of Nagish, A real-time text to speech and speech to text conversion application that let's deaf and  dumb people to converse with each other over a normal sim call. 
+Currently working on incorporating the sim calling feature.
